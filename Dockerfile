@@ -2115,7 +2115,7 @@ CMD ["node", "bot.js"]
     #AFS = list(SUDO_USERS)
     #CUSTOM_HELP_EMOJI = os.environ.get("CUSTOM_HELP_EMOJI", "✘")
     #HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
-    #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
+    #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None) 
     #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(
