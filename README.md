@@ -1,6 +1,6 @@
 <h1 align="center"><b> THE X-Troid Public Bot  </b></h1>
 
-![logo](https://telegra.ph/file/569fd05fb4c587a360d38.jpg)
+![logo](https://telegra.ph/file/8369c0f8da89386edc1cd.jpg)
 
 
 
@@ -15,7 +15,7 @@
     <br>
 </p>
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@lasindu123/XTROID)
+[![Run on Repl.it](https://replit.com/@CTBOT/WhatsAsena-QR#index.js)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AchiyaCT/Alpha)
 
