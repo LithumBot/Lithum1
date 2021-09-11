@@ -2102,7 +2102,7 @@ CMD ["node", "bot.js"]
     #ASSISTANT_START_PIC = os.environ.get(
      #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
     #3)
-    #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
+    #STRINGSESSION_2 = os.environ.get("STRINGSESSION._2", None)
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
     #STRINGSESSION_4 = os.environ.get("STRINGSESSION_4", None)
     #LOAD_UNOFFICIAL_PLUGINS = bool(strtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
