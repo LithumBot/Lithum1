@@ -24,7 +24,7 @@ const malScraper = require('mal-scraper')
 const request = require('request');
         .then(resizedImageBuffer => {
             if (!encode) return resolve(resizedImageBuffer)
-            console.log('Create base64 from resizedImageBuffer...')
+            console.log('Ceate base64 from resizedImageBuffer...')
             const resizedImageData = resizedImageBuffer.toString('base64')
             const resizedBase64 = `data:${mime};base64,${resizedImageData}`
             resolve(resizedBase64)
