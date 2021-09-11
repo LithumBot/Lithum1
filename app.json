@@ -1,15 +1,15 @@
 {
-    "name": "X-Troid",
-    "description": "World First sinhala whatsapp bot",
-    "logo": "https://telegra.ph/file/43e16e51660004dee32d0.jpg",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
+    "name": "🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰",
+    "description": "Sri Lankan Sinhala  WhatsApp Bot Owner By CT Achiya..........!!!!!!!!!!🔰🇱🇰",
+    "logo": "https://telegra.ph/file/8369c0f8da89386edc1cd.jpg",
+    "keywords": ["whatsapp","userbot","creativitytech","bot","api","ai"],
     "repository": "",
-    "website":   "lasiya.ml",
-    "success_url": "https://t.me/danumabots",
+    "website":   "------",
+    "success_url": "https://t.me/creativitytechclub",
     "stack": "container",
     "env": {
         "A_XTROID_SESSION": {
-            "description": "Type here yours X-Troid Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
+            "description": "Type here yours 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
             "required": true
         },
         "SUDO": {
@@ -19,7 +19,7 @@
         "LANGUAGE": {
             "description": "Bot language. English => en, සිංහල => SI",
             "required": true,
-            "value": "en"
+            "value": "SI"
         },
         "ANTİ_LİNK": {
             "description": "⚠️Link Blocking System.⚠️ලින්ක් දමන්නන් සමුහයෙන් ඉවත් කිරීමට",
@@ -27,7 +27,7 @@
             "value": "false"
         },
         "AUTO_BİO": {
-            "description": "Set true for auto date, time in biography.ඔබගේ විස්තරය කාලීනව වෙනස් වීමට (අවශ්‍ය නැතිනම් වෙනස් නොකරන්න )",
+            "description": "Set true for auto in biography.ඔබගේ විස්තරය කාලීනව වෙනස් වීමට (අවශ්‍ය නැතිනම් වෙනස් නොකරන්න )",
             "required": true,
             "value": "false"
         },
@@ -85,9 +85,9 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Xtroid bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. ඔබ සාදන්නේ පුද්ගලික bot එකක් නම් “private” ලෙසත් , පොදු botඑකක් නම් “public” ලෙසත් ලබාදෙන්න",
+            "description": "🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰  bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. ඔබ සාදන්නේ පුද්ගලික bot එකක් නම් “private” ලෙසත් , පොදු botඑකක් නම් “public” ලෙසත් ලබාදෙන්න",
             "required": true,
-            "value": "public"
+            "value": "private"
         },
         "HEROKU_APP_NAME": {
             "description": "Heroku APP Name.ඉහල පළමුවෙන්ම පිරවූ APP නාමය",
@@ -113,7 +113,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back./ALIVE පණිවිඩය ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
             "required": false,
-            "value": "🧧 X-Troid 🧧\nName: X-Troid\nYoutube : youtu.be/mDnJ7q3S3eY\nInfo : type .bot"
+            "value": "ALPHA\nName: 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰\nYoutube : https://www.youtube.com/c/CREATIVITYTECH\nInfo : type .bot"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.යමෙකු සමුහයෙන් ඉවත් කරීමේ පණිවිඩය වෙනස් කිරීමට",
