@@ -25,7 +25,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
     });
     
 
-    conn.on('open', () => {
+    conn.on('openn', () => {
         var st = Session.createStringSession(conn.base64EncodedAuthInfo());
         console.log(
             chalk.green.bold('Asena String Kodunuz: '), Session.createStringSession(conn.base64EncodedAuthInfo())
