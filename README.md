@@ -1,4 +1,4 @@
-<h1 align="center"><b>   Alpha Public Bot  </b></h1>
+<h1 align="center"><b>   🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 Public Bot  </b></h1>
 
 ![logo](https://telegra.ph/file/6b803796f745de1577774.jpg)
 
@@ -26,7 +26,7 @@
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Alpha executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+By establishing the Alpha, you are deemed to have accepted these responsibilities.
 ```
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
