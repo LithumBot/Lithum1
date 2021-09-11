@@ -156,7 +156,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
 
                 if (conn.user.jid === '994775555555@s.whatsapp.net' ) {
 
-                    await conn.sendMessage(conn.user.jid, '```🛡️ Blacklist Tespit Edildi!```', MessageType.text)
+                    await conn.sendMessage(conn.user.jid, '```🛡️Blacklist Tespit Edildi!```', MessageType.text)
 
                     await new Promise(r => setTimeout(r, 1700));
 
