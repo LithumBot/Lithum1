@@ -100,7 +100,7 @@ const { RemoveBgResult, removeBackgroundFromImageBase64, removeBackgroundFromIma
 const color = require('./lib/color')
 const { liriklagu, quotemaker, wall } = require('./lib/functions')
 const { help, info, } = require('./lib/help')
-const akaneko = require('akaneko');
+const akaneko = require('akanekok');
 const { exec } = require('child_process')
 const fetch = require('node-fetch');
 const bent = require('bent')
