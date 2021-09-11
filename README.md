@@ -15,7 +15,7 @@
     <br>
 </p>
 
-[![Run on Repl.it](https://telegra.ph/file/36eaf1ccb679ef6bdcdfe.jpg)](https://replit.com/@CTBOT/Alpha-QR?v=1)
+[![Run on Repl.it](https://telegra.ph/file/788ce18fe66a6023b7c1a.jpg)](https://replit.com/@CTBOT/Alpha-QR?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AchiyaCT/Alpha)
 
