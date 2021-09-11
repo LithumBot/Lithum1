@@ -15,7 +15,7 @@
     <br>
 </p>
 
-[![Run on Repl.it](https://replit.com/@CTBOT/WhatsAsena-QR#index.js)
+[![Run on Repl.it](https://replit.com/@CTBOT/WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AchiyaCT/Alpha)
 
