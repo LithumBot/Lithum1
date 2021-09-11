@@ -1,4 +1,4 @@
-<h1 align="center"><b>   🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 Public Bot  </b></h1>
+<h1 align="center"><b>  The ALPHA Public Bot  </b></h1>
 
 ![logo](https://telegra.ph/file/6b803796f745de1577774.jpg)
 
