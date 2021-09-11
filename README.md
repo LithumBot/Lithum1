@@ -1,4 +1,4 @@
-<h1 align="center"><b> THE X-Troid Public Bot  </b></h1>
+<h1 align="center"><b> THE Alpha Public Bot  </b></h1>
 
 ![logo]()
 
