@@ -1,7 +1,7 @@
 {
     "name": "🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰",
     "description": "Sri Lankan Sinhala WhatsApp Bot Owner By CT Achiya.........!!!!!!!!!!🔰🇱🇰",
-    "logo": "https://telegra.ph/file/f4a0f55afdaafbba4fd23.jpg",
+    "logo": "https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg",
     "keywords": ["whatsapp","userbot","creativitytech","bot","api","ai"],
     "repository": "",
     "website":   "------",
@@ -148,7 +148,7 @@
         "GAN_IMAGE": {
             "description": "Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://telegra.ph/file/f4a0f55afdaafbba4fd23.jpg"
+            "value": "https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg"
         },
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.ගිණුම online වසා තැබීමට",
