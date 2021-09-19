@@ -8,7 +8,7 @@
     "success_url": "https://t.me/creativitytechclub",
     "stack": "container",
     "env": {
-        "A_XTROID_SESSION": {
+        "ALPHA_SESSION": {
             "description": "Type here yours 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
             "required": true
         },
