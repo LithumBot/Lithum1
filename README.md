@@ -1,6 +1,6 @@
 <h1 align="center"><b>  The ALPHA Public Bot  </b></h1>
 
-<h1 align="center"><b> ![logo](https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg)
+<p align="center"><b> ![logo](https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg)
 
 
 
