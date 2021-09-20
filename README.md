@@ -34,7 +34,7 @@ By establishing The Alpha, you are deemed to have accepted these responsibilitie
 ## Thanks To
 The Dark Night (HIRUWA)
 
-The  pearl  Owner  Kasun
+The pearl Owner Kasun
 
 
 # base bot  #T-rex
