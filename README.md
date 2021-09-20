@@ -1,4 +1,4 @@
-<h1 align="center"><b>  The ALPHA Public Bot  </b></h1>
+<h1 align="center"><b> ALPHA  Group Management  Bot </b></h1>
 
 ![logo](https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg)
 
@@ -9,12 +9,12 @@
     Project of Alpha - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
     <br>
         <a href="https://t.me/Alphabot123">Telegram Channel</a> |
-        <a href="https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE">New Support Group</a> |
+        <a href="https://chat.whatsapp.com/KQRCEydZ4QwJ7JpKypx5gg">New Support Group</a> |
         <a href="https://t.me/allgrpct">All Groups & channels </a> |
-        <a href="">Our  Web</a> |
+        <a href="https://achintha-fernandos-website.yolasite.com/">Our  Web</a> |
     <br>
 </p>
-
+align="center">
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@CTBOT/Alpha-QR?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AchiyaCT/Alpha)
