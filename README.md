@@ -1,4 +1,4 @@
-<h1 align="center"><b> ALPHA  Group Management  Bot </b></h1>
+<h1 align="center"><b> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰  Group Management  Bot </b></h1>
 
 ![logo](https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg)
 
