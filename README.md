@@ -32,8 +32,8 @@ By establishing The Alpha, you are deemed to have accepted these responsibilitie
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
 ## Thanks To
-The Dark Night (HIRUWA) 
-https://wa.me/94788306130
+The Dark Night (HIRUWA)
+The  pearl  Owner  Kasun
 
 
 # base bot  #T-rex
