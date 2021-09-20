@@ -14,7 +14,6 @@
         <a href="https://achintha-fernandos-website.yolasite.com/">Our  Web</a> |
     <br>
 </p>
-align="center">
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@CTBOT/Alpha-QR?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AchiyaCT/Alpha)
