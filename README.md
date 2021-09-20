@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    Project of Alpha - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
+    Project of Alpha - Makes it easy and fun to use Whatsapp. Also new Sinhala userbot for Whatsapp.
     <br>
         <a href="https://t.me/Alphabot123">Telegram Channel</a> |
         <a href="https://chat.whatsapp.com/KQRCEydZ4QwJ7JpKypx5gg">New Support Group</a> |
