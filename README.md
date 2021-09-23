@@ -25,7 +25,8 @@ Project created by <a href="https://github.com/CTAchiya"> ACHIYA</a> This projec
 
 ## Setup
 <div align="center">
-  ## Simple Method
+  
+Simple Method
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@CTBOT/Alpha-QR?v=1)
 
