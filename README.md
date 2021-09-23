@@ -10,7 +10,7 @@
 <p align="center">
   <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77676&lines=Welcome+to+alpha+bot+GitHub+page)](https://git.io/typing-svg)">
 </p>
-</a>
+
 <p align="center">
 Project created by <a href="https://github.com/CTAchiya"> ACHIYA</a> This project may be free
     <br
