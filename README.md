@@ -10,7 +10,7 @@
 </p>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77676&center=true&vCenter=true&lines=Welcome+to+alpha+bot+GitHub+page)">
 </p>
 <p align="center">
 Project created by <a href="https://github.com/CTAchiya"> ACHIYA</a> This project may be free
