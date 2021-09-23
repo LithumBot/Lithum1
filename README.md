@@ -6,7 +6,7 @@
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg" width="400" height="400"/>
   <p align="center">
-<h1 align="center"><b> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 Group (ᴠɪᴘ) </b></h1>
+<h1 align="center"><b> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 BOT (Group ᴠɪᴘ) </b></h1>
 
 </p>
              
