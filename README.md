@@ -4,6 +4,9 @@
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg" width="400" height="400"/>
 </p>
+<p align="center">
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77676&lines=Welcome+to+alpha+bot+GitHub+page)](https://git.io/typing-svg)">
+</p>
 
 <p align="center">
 Project created by <a href="https://github.com/CTAchiya"> ACHIYA</a> This project may be free
