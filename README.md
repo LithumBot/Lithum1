@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Project created by <a href="https://github.com/AchiyaCT/Alpha"> ACHIYA</a> This project may be free
+Project created by <a href="https://github.com/CTAchiya"> ACHIYA</a> This project may be free
     <br
        | © |
         owner |
