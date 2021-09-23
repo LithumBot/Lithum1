@@ -4,8 +4,8 @@
 
 </a>
 
-![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
-<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
+![logo](https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg)
+<h1 align="center"><b> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰  Gruop (ᴠɪᴘ) </b></h1>
 
 </p>
              
