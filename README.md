@@ -1,25 +1,37 @@
-<h1 align="center"><b> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰  Group Management  Bot </b></h1>
+<div align="center">
+  <h1> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰  Group Management  Bot </h1>
+</div>
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg" width="400" height="400"/>
+</p>
 
-![logo](https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg)
+<p align="center">
+Project created by <a href="https://github.com/AchiyaCT/Alpha"> ACHIYA</a> This project may be free
+    <br
+       | © |
+        owner |
+    <br> 
+</p>
 
-
-
-
+----
 <p align="center">
     Project of Alpha - Makes it easy and fun to use Whatsapp. Also new Sinhala userbot for Whatsapp.
     <br>
         <a href="https://t.me/Alphabot123">Telegram Channel</a> |
-        <a href="https://chat.whatsapp.com/KQRCEydZ4QwJ7JpKypx5gg">New Support Group</a> |
         <a href="https://t.me/allgrpct">All Groups & channels </a> |
         <a href="https://achintha-fernandos-website.yolasite.com/">Our  Web</a> |
     <br>
 </p>
 
+## Setup
+<div align="center">
+  ### Simple Method
+  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@CTBOT/Alpha-QR?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AchiyaCT/Alpha)
-
-
+     </div>
+<br>
 
 ### ⚠️ Warning! 
 ```
