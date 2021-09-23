@@ -1,6 +1,5 @@
 <div align="center">
-  <h1> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 
-    Group Management Bot </h1>
+  <h1> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 Group Management Bot </h1>
 </div>
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg" width="400" height="400"/>
