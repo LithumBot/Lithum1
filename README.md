@@ -14,6 +14,14 @@ Project created by <a href="https://github.com/CTAchiya"> ACHIYA</a> This projec
 </p>
 
 ----
+
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE)
+  <div align="center">
+    
 <p align="center">
     Project of Alpha - Makes it easy and fun to use Whatsapp. Also new Sinhala userbot for Whatsapp.
     <br>
