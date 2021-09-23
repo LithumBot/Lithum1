@@ -1,16 +1,6 @@
-<div align="center">
-![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
-<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
+  <br>  
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77676&center=true&vCenter=true&lines=Welcome+to+alpha+bot+GitHub+page;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
-</p>
-             
-<p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77676&lines=Welcome+to+alpha+bot+GitHub+page)](https://git.io/typing-svg)">
-</p>
-</a>
-<p align="center">
-    Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගන්න පුලුවන් Whatsapp රොබෝවෙකි. Neotro-x යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
-    <br>
 <p align="center">
 Project created by <a href="https://github.com/CTAchiya"> ACHIYA</a> This project may be free
     <br
