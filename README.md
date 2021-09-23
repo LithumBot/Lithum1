@@ -5,7 +5,7 @@
 </a>
 
 ![logo](https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg)
-<h1 align="center"><b> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰  Gruop (ᴠɪᴘ) </b></h1>
+<h1 align="center"><b> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 Group (ᴠɪᴘ) </b></h1>
 
 </p>
              
