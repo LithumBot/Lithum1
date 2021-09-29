@@ -1,6 +1,6 @@
 {
-    "name": "🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰",
-    "description": "Sri Lankan Sinhala WhatsApp Bot Owner By CT Achiya.........!!!!!!!!!!🔰🇱🇰",
+    "name": "🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 V1.0",
+    "description": "Sri Lankan Sinhala New WhatsApp Bot Owner By CT Achiya....!!!🔰🇱🇰",
     "logo": "https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg",
     "keywords": ["whatsapp","userbot","creativitytech","bot","api","ai"],
     "repository": "",
@@ -113,7 +113,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back./ALIVE පණිවිඩය ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
             "required": false,
-            "value": "ALPHA\nName: 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰\nYoutube : https://www.youtube.com/c/CREATIVITYTECH\nInfo : type .bot"
+            "value": " 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 type .alive"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.යමෙකු සමුහයෙන් ඉවත් කරීමේ පණිවිඩය වෙනස් කිරීමට",
