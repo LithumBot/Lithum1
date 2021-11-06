@@ -6,7 +6,7 @@
 # Get more about devaoloper https://lasiya.ml
 */
 
-// Komutları burada tutacağız.
+// Komutları burada tutacağz.
 var config = require('./config');
 var Commands = [];
 
