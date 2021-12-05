@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "TREX_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@TRexWa/T-REX-QR-SESSION .",
+            "description": "Paste your QR sessin that you got from https://replit.com/@TRexWa/T-REX-QR-SESSION .",
             "required": true
         },
         "BUTTON_CMD": {
