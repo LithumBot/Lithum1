@@ -1,4 +1,4 @@
-lconst moment = require('moment-timezone')
+lconst moment = require('moent-timezone')
 const get = require('got')
 const { RemoveBgResult, removeBackgroundFromImageBase64, removeBackgroundFromImageFile } = require('remove.bg') //paid
 const color = require('./lib/color')
