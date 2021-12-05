@@ -32,7 +32,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
             chalk.green.bold('Asena String Kodunuz: '), Session.createStringSession(conn.base64EncodedAuthInfo())
         );
         
-        if (!fs.existsSync('config.env')) {
+        if (!fs.existsSync('confg.env')) {
             fs.writeFileSync('config.env', `ASENA_SESSION="${st}"`);
         }
 
