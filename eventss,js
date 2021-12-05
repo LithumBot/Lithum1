@@ -11,7 +11,7 @@ var config = require('./config');
 var Commands = [];
 
 function addCommand(info, func) {
-    // Basit bir fonksiyon, komut eklemek için.
+    // Basit bir fonksiyon, komut ekemek için.
     var types = ['photo', 'image', 'text', 'message'];
 
     var infos = {
