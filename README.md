@@ -6,7 +6,7 @@
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/cd6032c65c27e0510ddad.jpg" width="400" height="400"/>
   <p align="center">
-<h1 align="center"><b> ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ V3.0.0.0(Group ᴠɪᴘ) <b> <br> 🎅I WISH YOU ☃️❄️MERRY CHRISTMAS❄️☃️
+<h1 align="center"><b> ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ V3.0.0.0(Group ᴠɪᴘ) <b> <br> 🎅I WISH YOU <br> ☃️❄️MERRY CHRISTMAS❄️☃️
  </h1>
 
 </p>
