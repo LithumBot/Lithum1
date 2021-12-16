@@ -4,9 +4,9 @@
 
 </a>
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/c4f4d62acfce433ed3f5e.jpg" width="400" height="400"/>
+  <img border-radius: 15px src="https://telegra.ph/file/cd6032c65c27e0510ddad.jpg" width="400" height="400"/>
   <p align="center">
-<h1 align="center"><b> 🎅I WISH YOU ❄️☃️ MERRY CHRISTMAS ❄️☃️ <br> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 BOT(Group ᴠɪᴘ)</b></h1>
+<h1 align="center"><b> 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 BOT(Group ᴠɪᴘ) <br> 🎅I WISH YOU ❄️☃️ MERRY CHRISTMAS ❄️☃️</b></h1>
 
 </p>
              
