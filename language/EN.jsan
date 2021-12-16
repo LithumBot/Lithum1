@@ -6,7 +6,7 @@
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
-            "DESC": "Description",
+            "DESC": "Decription",
             "EXAMPLE": "Example",
             "NOT_FOUND": "*I couldnt find a command like this*",
             "WARN": "Warn"
