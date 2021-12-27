@@ -3,7 +3,7 @@ FROM fusuf/whatsasena:latest
 #not
 #price.  Our General Public Licenses are designed t make sure that you
 #have thhttps://www.youtube.com/watch?v=mDnJ7q3S3eYe freedom to distribute copies of free software (and charge for
-#them if you wish), that you receive sorce code or can get it if you
+#them if you wish), that you receivesorce code or can get it if you
 #want it, that you can change the software or use pieces of it in new
 #free programs, and that you know you can do these things.
     #API_ID = int(os.environ.get("API_ID", 1))
