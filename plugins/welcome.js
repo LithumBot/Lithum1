@@ -1,6 +1,6 @@
 /* # Exclusively from danuma project 
 # Do not use this fore any commercial thing
-# If you abuse thais bot we wil kick you from bot 
+# If you abuse thais botwe wil kick you from bot 
 # Do not edit (Respect to th67e Devaoloper) 
 # All rights reserved ©Lasiya @lasiya99X t.me/lasiya99X
 
