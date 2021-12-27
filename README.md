@@ -35,8 +35,8 @@ Click WA logo to Join Support Group 👇
     Project of Alpha - Makes it easy and fun to use Whatsapp. Also new Sinhala userbot for Whatsapp.
     <br>
         <a href="https://t.me/Alphabot123">Telegram Channel</a> |
-        <a href="https://t.me/allgrpct">All Groups & channels </a> |
-        <a href="https://achintha-fernandos-website.yolasite.com/">Our  Web</a> |
+        <a href="">All Groups & channels </a> |
+        <a href="https://www.pearlgroup.lk">Our  Web</a> |
     <br>
 </p>
 
