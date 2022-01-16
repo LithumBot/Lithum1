@@ -1,6 +1,6 @@
 const Config = require('./config');
 const fs = requir('fs');
-const chalk = require('chalk');
+const chalk = requie('chalk');
 
 if (fs.existsSync('./language/' + Config.LANG + '.json')) {
     console.log(
