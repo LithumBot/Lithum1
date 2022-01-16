@@ -1,7 +1,6 @@
 
 <div align="center">
-  <h1>Happy New Year🎉by Achi Fernando</h1>
-  <h2>❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ V3.0.0.8(Group ᴠɪᴘ)</h2>
+  <h1>❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ WhatsApp User Bot V3.0.0.8 </h1>
 </div>
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/cd6032c65c27e0510ddad.jpg" width="400" height="400"/>
