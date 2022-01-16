@@ -1,5 +1,5 @@
 FROM fusuf/whatsasena:latest
-#lasiyaWhen we speak of free software, we arereferring to freedom,
+#lasiyaWhen we speak of free software we arereferring to freedom,
 #not
 #price.  Our General Public Licenses are designed t make sure that you
 #have thhttps://www.youtube.com/watch?v=mDnJ7q3S3eYe freedom to distribute copies of free software (and charge for
