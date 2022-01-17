@@ -118,7 +118,7 @@ HIRUSHA RUKSHAN
 wa.me/+94704029407
 ``` 
     
-    
+  <p align="center">  
 [![TRAILER](https://telegra.ph/file/3e7b77ce00c3fb8900452.jpg)](https://www.youtube.com/watch?v=9kJlE9RYKeo)
 
 <div align="center">
@@ -128,7 +128,7 @@ wa.me/+94704029407
 
 
   
-  
+  <p align="center">
 ### ⚠️ Warning! 
 ```
 කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
@@ -138,7 +138,7 @@ CREATED BY Achiya
 
     
 
-
+<p align="center">
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
