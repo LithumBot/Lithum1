@@ -68,8 +68,7 @@ Simple Method
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CTAchiya/sgmnxhm)
    </div>
-    
-    <p align="center">
+ <p align="center">
    <br> 
    
 ```
