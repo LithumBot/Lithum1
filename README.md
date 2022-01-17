@@ -68,10 +68,11 @@ Simple Method
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CTAchiya/sgmnxhm)
      </div>
+    
+    <p align="center">
 <br>
    <br> 
    
-<p align="center">
 ```
 ඔයත් ඔන්ලයින් ස්ටෝර් එකක් ඔන්ලයින් බිස්නස් එකක් ඔයාගෙම කියලා ගෲප් එකක් කරනවද ?
 
