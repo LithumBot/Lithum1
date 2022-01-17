@@ -70,6 +70,7 @@ Simple Method
   
 
      </div>
+    
     <p align="center">
 <br>
    <br> 
@@ -126,17 +127,12 @@ wa.me/+94704029407
   <p>📛 WATCH How To Make Sinhala WhatsApp Bot With Full Tutorial || Tutorial 02 || Alpha Wa Bot VIDEO CLICK This Post📛
 </div>
 
-
-  
-  <p align="center">
+    
 ### ⚠️ Warning! 
 ```
 කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
 CREATED BY Achiya
 ```
-
-
-    
 
 <p align="center">
 ## License
