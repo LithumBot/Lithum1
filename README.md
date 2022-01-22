@@ -55,9 +55,6 @@ Click WA logo to Join Support Group 👇
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE)
   <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AchiyaCT&repo=ALPHA&theme=nightowl)](https://github.com/AchiyaCT/ALPHA)
-  </div>
     
 ## Setup
 <div align="center">
