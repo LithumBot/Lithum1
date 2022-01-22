@@ -114,9 +114,6 @@ Lithum helitha
 
 https://wa.me/+94718556912
 ``` 
-    
-
-[![TRAILER](https://telegra.ph/file/3e7b77ce00c3fb8900452.jpg)](https://www.youtube.com/watch?v=9kJlE9RYKeo)
 
 <div align="center">
 
