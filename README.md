@@ -103,9 +103,9 @@ Simple Method
 
 WHATSAPP 
 
-Lithum helitha
+🅰🅻🅿🅷🅰
 
-https://wa.me/+94718556912
+https://wa.me/+94720603183
 
 Lithum helitha
 
@@ -118,7 +118,7 @@ https://wa.me/+94718556912
 ### ⚠️ Warning! 
 ```
 කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
-CREATED BY ＬＩＴＨＵＭ
+CREATED BY🅰🅻🅿🅷🅰
 ```
 
 <p align="center">
