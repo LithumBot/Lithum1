@@ -24,7 +24,7 @@
 <p align="center">
 </p>
   <p align="center">
-<a href="https://github.com/AchiyaCT/Achiya"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 Lithum-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/AchiyaCT/Achiya"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 alpah-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
