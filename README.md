@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ WhatsApp User Bot V3.0.0.8 </h1>
+  <h1>❰ 🇱🇰🔰✥▬Ｌｉｔｈｕｍ▬✥🔰🇱🇰 ❱ WhatsApp User Bot V3.0.0.8 </h1>
 </div>
 
 <p align="center">
@@ -15,11 +15,11 @@
 </p>
   
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/❰ 🇱🇰🔰✥▬Ｌｉｔｈｕｍ▬✥🔰🇱🇰 ❱-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77676&center=true&vCenter=true&lines=Welcome+to+alpha+bot+GitHub+page">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77676&center=true&vCenter=true&lines=Welcome+to+Lithum+bot+GitHub+page">
 </p>
 <p align="center">
 </p>
@@ -106,28 +106,25 @@ Simple Method
 
 WHATSAPP 
 
-KASUN RAVIHARA
+Lithum helitha
 
-wa.me/+94716184907
+https://wa.me/+94718556912
 
-HIRUSHA RUKSHAN
+Lithum helitha
 
-wa.me/+94704029407
+https://wa.me/+94718556912
 ``` 
     
 
 [![TRAILER](https://telegra.ph/file/3e7b77ce00c3fb8900452.jpg)](https://www.youtube.com/watch?v=9kJlE9RYKeo)
 
 <div align="center">
-  <h1>❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ OFFICIAL VIDEO</h1>
-  <p>📛 WATCH How To Make Sinhala WhatsApp Bot With Full Tutorial || Tutorial 02 || Alpha Wa Bot VIDEO CLICK This Post📛
-</div>
 
     
 ### ⚠️ Warning! 
 ```
 කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
-CREATED BY Achiya
+CREATED BY ＬＩＴＨＵＭ
 ```
 
 <p align="center">
